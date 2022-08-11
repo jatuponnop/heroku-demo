@@ -11,7 +11,7 @@ sudo yarn global add heroku
 
 #3. Check log
 -----------------------------------
-heroku logs --tail --app heroku-cm-demo
+heroku logs --tail --app nop-heroku-nodejs-demo
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
